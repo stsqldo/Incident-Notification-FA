@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="IncidentNotification.Application/IncidentNotification.Application.csproj" />
+  <Project Path="IncidentNotification.Domain/IncidentNotification.Domain.csproj" />
+  <Project Path="IncidentNotification.Infrastructure/IncidentNotification.Infrastructure.csproj" />
+  <Project Path="IncidentNotificationFA/IncidentNotificationFA.csproj" />
+</Solution>
